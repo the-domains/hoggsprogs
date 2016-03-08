@@ -1,0 +1,28 @@
+name: Hoggsprogs
+favicon: null
+layout_spectrum: 0.2541311492677778
+typography_spectrum: 0.7026249631308019
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07279812870547175
+  lightness: 0.18568895873613656
+  saturation: 0.02775630378164351
+  rhythmicContrast: 0.23237055004574358
+purpose: []
